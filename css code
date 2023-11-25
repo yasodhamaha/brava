@@ -1,0 +1,173 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.visit-page {
+  background-color: #e1c300;
+  height: 5vh;
+  text-align: center;
+}
+
+.tiktok {
+  color: #000000;
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.title-name {
+  color: #e1c300 !important;
+  font-family: "dancing script";
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.nav-bg-section {
+  background-color: #212122;
+}
+
+.social-media-icon {
+  color: #ffffff;
+}
+
+#carousel-content1 {
+  position: absolute;
+  bottom: 10%;
+  left: 5%;
+  z-index: 20;
+  color: white;
+}
+
+.banner-heading {
+  font-family: "ubuntu";
+  font-size: 60px;
+  font-weight: bold;
+  padding-top: 70px;
+  text-align: right;
+  color: white;
+  padding: 50px;
+}
+
+.button {
+  color: #ffffff;
+  background-color: transparent;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #ffffff;
+  width: 100px;
+  height: 38px;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  font-size: 12px;
+}
+
+#carousel-content2 {
+  position: absolute;
+  bottom: 10%;
+  left: 5%;
+  z-index: 20;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+}
+
+.button1 {
+  color: #000000;
+  background-color: #ffffff;
+}
+
+#carousel-content3 {
+  position: absolute;
+  bottom: 10%;
+  left: 5%;
+  z-index: 20;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+}
+
+#carousel-content4 {
+  position: absolute;
+  bottom: 10%;
+  left: 5%;
+  z-index: 20;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+}
+
+#carousel-content5 {
+  position: absolute;
+  bottom: 10%;
+  left: 5%;
+  z-index: 20;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+}
+
+.hosky-back {
+  background-color: rgb(9, 109, 248);
+  height: 15vh;
+  width: 15vw;
+  background-size: cover;
+  border-style: solid;
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-top: 30px;
+  border-color: rgb(9, 109, 248);
+}
+
+.hosky-image {
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.hosky-head {
+  color: #ffffff;
+  font-family: "roboto";
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.future-back {
+  background-color: #000000;
+  height: 15vh;
+  width: 15vw;
+  background-size: cover;
+  border-style: solid;
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-top: 30px;
+  border-color: #000000;
+}
+
+.bitfins-back {
+  background-color: #212122;
+  height: 15vh;
+  width: 15vw;
+  background-size: cover;
+  border-style: solid;
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-top: 30px;
+  border-color: #212122;
+}
+
+.crypto-back {
+  background-color: palevioletred;
+  height: 15vh;
+  width: 15vw;
+  background-size: cover;
+  border-style: solid;
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-top: 30px;
+  border-color: palevioletred;
+}
